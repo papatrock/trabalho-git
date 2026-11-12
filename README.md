@@ -1,6 +1,6 @@
 # Projeto Git (branch feature-titulo)
 
-Trabalho de Qualidade de Software.
+Trabalho de Qualidade de Software (editado por usuario2).
 
 ## Como executar
 

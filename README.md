@@ -1,7 +1,3 @@
-# Projeto Git (branch feature-titulo)
+# Projeto Git
 
-Trabalho de Qualidade de Software - UFPR (editado por usuario1 e usuario2).
-
-## Como executar
-
-    python main.py
+<img width="899" height="411" alt="image" src="https://github.com/user-attachments/assets/a5f4187d-2755-446d-8e96-27288af334cc" />

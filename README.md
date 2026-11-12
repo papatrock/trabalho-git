@@ -1,6 +1,6 @@
 # Projeto Git (branch feature-titulo)
 
-Trabalho de Qualidade de Software (editado por usuario2).
+Trabalho de Qualidade de Software - UFPR (editado por usuario1 e usuario2).
 
 ## Como executar
 
